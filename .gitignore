@@ -1,0 +1,5 @@
+venv
+Bangla_Smishing_model/
+Bangla_Smishing_model_32/
+temp_training_files/
+.env
